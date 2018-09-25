@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("https://images.pexels.com/photos/699782/pexels-photo-699782.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #000;
+  text-align: center;
+	margin: 0 auto;
+	text-align: center;
+	align-items: center;
+	flex-wrap: none;
+	color: white;
+	font-size: 20px;
+	justify-content: center;
+}
+.file {
+	text-align: center;
+}
+h1{
+	font-size: 50px;
+
+}
+
+.small {
+	width: 200px;
+	border: none;
+}
+
+
+.inputfile{
+	margin: 20px auto;
+	font-size: 18px;
+
+}
+.send {
+	width: 200px;
+	background-color: #0d77b7;
+	border: none;
+	height: 40px;
+	margin: 20px;
+	border-radius: 5px;
+	color: white;
+	font-size: 20px;
+}
+
+.send:hover{
+	cursor: pointer;
+	color:#0d77b7;
+	background-color: white;
+	border: solid 3px #0d77b7;
+
+}

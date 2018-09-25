@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0 auto;
+	background-image: url("https://images.pexels.com/photos/5842/people-vintage-photo-memories.jpg?auto=compress&cs=tinysrgb&h=750&w=1260");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	margin: 10px;
+}
+
+img {
+	width: 500px;
+	height: 500px;
+	display: block;
+	margin: 40px auto;
+}
+
+a {
+	text-decoration: none;
+	font-size: 30px;
+	color: darkblue;
+	font-weight: bold;
+}
